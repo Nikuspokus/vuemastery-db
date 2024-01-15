@@ -1,34 +1,36 @@
 {
-    id: 5928101,
-    category: 'animal walfare',
-    title: 'Puppy Adoption Day',
-    description: 'Come and adopt a puppy!',
-    location: '123 Main St, City, State 12345',
-    date: 'January 28, 2022',
-    time: '12:00 PM - 3:00 PM',
-    petsAllowed: true,
-    organizer: 'Kat Laydee'
-  },
-
-  {
-    id: 5928102,
-    category: 'animal walfare',
-    title: 'Kitten Adoption Day',
-    description: 'Come and adopt a kitten!',
-    location: '123 Main St, City, State 12345',
-    date: 'January 29, 2022',
-    time: '12:00 PM - 3:00 PM',
-    petsAllowed: true,
-    organizer: 'Kat Laydee'
-  },
-  {
-    id: 5928102,
-    category: 'animal walfare',
-    title: 'Kitten Adoption Day',
-    description: 'Come and adopt a kitten!',
-    location: '123 Main St, City, State 12345',
-    date: 'January 29, 2022',
-    time: '12:00 PM - 3:00 PM',
-    petsAllowed: true,
-    organizer: 'Kat Laydee'
-  }
+  "events": [
+    {
+      "id": 5928100,
+      "category": "animal walfare",
+      "title": "Dog Adoption Day",
+      "description": "Come and adopt a dog!",
+      "location": "123 Main St, City, State 12345",
+      "date": "January 27, 2022",
+      "time": "12:00 PM - 3:00 PM",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 5928101,
+      "category": "animal walfare",
+      "title": "Puppy Adoption Day",
+      "description": "Come and adopt a puppy!",
+      "location": "123 Main St, City, State 12345",
+      "date": "January 28, 2022",
+      "time": "12:00 PM - 3:00 PM",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    },
+    {
+      "id": 5928102,
+      "category": "animal walfare",
+      "title": "Kitten Adoption Day",
+      "description": "Come and adopt a kitten!",
+      "location": "123 Main St, City, State 12345",
+      "date": "January 29, 2022",
+      "time": "12:00 PM - 3:00 PM",
+      "petsAllowed": true,
+      "organizer": "Kat Laydee"
+    } ]
+}
